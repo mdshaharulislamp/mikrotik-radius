@@ -1,0 +1,13 @@
+> tar -xf radiusconfig.tar
+> cd radiusconfig
+> chmod +x install.sh
+> ./install.sh
+> Enter Mqsql Root Password if no password press enter
+> Enter DB name
+> Enter DB Username
+> Enter DB Password
+> Enter Django Admin Super Username
+> Enter Django Admin Super User Email
+> Enter Django Admin Super User Password
+> Enter Mqsql Root Password 3 times if no password press enter 3 times
+> Enter DB Password
