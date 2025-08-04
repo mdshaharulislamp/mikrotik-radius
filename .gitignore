@@ -1,0 +1,38 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+venv/
+env/
+
+# Distribution / packaging
+*.egg-info/
+*.egg
+build/
+dist/
+*.tar.gz
+
+# Django stuff
+db.sqlite3
+*.log
+media/
+staticfiles/
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Git release and backup files
+releases/
+*.zip
+*.tar
+*.bak
+*.orig
+
