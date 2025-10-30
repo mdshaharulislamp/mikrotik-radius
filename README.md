@@ -15,6 +15,7 @@ Download the `radiusconfig.tar` file and follow the steps below:
 ### 1. Extract the project files
 
 ```bash
+wget https://github.com/mdshaharulislamp/mikrotik-radius/releases/download/v1.0.0/radiusconfig.tar
 tar -xf radiusconfig.tar
 cd radiusconfig
 chmod +x install.sh
