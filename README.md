@@ -7,7 +7,7 @@ This is a Django-based web interface to manage FreeRADIUS users and settings. It
 
 Download the `radiusconfig.tar` file and follow the steps below:
 
-[Download radiusconfig.tar](https://github.com/your-username/your-repo/raw/main/releases/radiusconfig.tar)
+[Download radiusconfig.tar](https://github.com/mdshaharulislamp/mikrotik-radius/raw/main/releases/radiusconfig.tar)
 
 
 ## 📦 Installation
